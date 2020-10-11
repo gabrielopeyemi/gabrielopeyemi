@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function homeslider() {
+export default function Homeslider() {
   return (
     <>
       {/* <!-- slider_area_start --> */}
@@ -21,9 +21,9 @@ export default function homeslider() {
                       <div className="col-xl-12">
                           <div className="slider_text text-center">
                               <h3>
-                                  Hello This is Milan
+                                  I'm Opeyemi Gabriel
                               </h3>
-                              <span>Creative Designer</span>
+                              <span>Frontend Developer</span>
                           </div>
                       </div>
                   </div>
