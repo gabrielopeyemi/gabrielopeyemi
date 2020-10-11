@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../assets/img/about/grid.png'
 
 export default function Homeslider() {
   return (
@@ -7,7 +8,7 @@ export default function Homeslider() {
       <div className="slider_area">
           <div className="single_slider  d-flex align-items-center slider_bg_1">
               <div className="shap_pattern d-none d-lg-block">
-                  <img src="img/about/grid.png" alt="grid"/>
+                  <img src={img} alt="grid"/>
               </div>
               <div className="social_links">
                   <ul>

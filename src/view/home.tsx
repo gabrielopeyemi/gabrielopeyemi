@@ -1,5 +1,6 @@
 import React from 'react'
 import AboutMe from '../layers/AboutMe'
+import Footer from '../layers/Footer'
 import HeroThree from '../layers/HeroThree'
 import HeroThreeB from '../layers/HeroThreeB'
 import Herotwo from '../layers/herotwo'
@@ -13,6 +14,7 @@ export default function Home() {
           <HeroThree />
           <HeroThreeB/>
           <AboutMe/>
+          <Footer/>
         </>
   )
 }
