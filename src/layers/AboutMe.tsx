@@ -18,9 +18,10 @@ export default function AboutMe() {
                   <div className="col-xl-6 col-md-6">
                       <div className="about_e_details">
                           <h3>About me</h3>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida Risus com odo viverra maecenas.</p>
+                          <p>I’m Opeyemi Gabriel-Famosipe. I’m a developer who does little designs. I’ve worked in-house and remotely on projects for different brands, agencies, and startups. I care deeply about creating world-class, useful and beautiful products that help people and make a difference. 
+</p>
                           <div className="download_cv">
-                              <a className="boxed-btn3" href="#">Download CV</a>
+                              <a className="boxed-btn3" href="#">Learn More</a>
                           </div>
                       </div>
                   </div>

@@ -23,7 +23,7 @@ export default function Footer() {
                             <div className="socail_links">
                                 <ul>
                                     <li><a href="#"> <i className="fa fa-facebook"></i> </a></li>
-                                    <><Link to="#"> <i className="fab fa-twitter"></i> </Link></>
+                                    <li><a href="#"> <i className="fab fa-twitter"></i> </a></li>
                                     <li><a href="#"> <i className="fa fa-instagram"></i> </a></li>
                                     <li><a href="#"> <i className="fa fa-google-plus"></i> </a></li>
                                 </ul>
