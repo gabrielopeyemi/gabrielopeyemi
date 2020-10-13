@@ -1,9 +1,10 @@
 import React from 'react';
-import one from '../assets/img/portfolio/1.png';
-import two from '../assets/img/portfolio/2.png';
-import three from '../assets/img/portfolio/3.png';
-import four from '../assets/img/portfolio/4.png';
-import five from '../assets/img/portfolio/5.png';
+import { Link } from 'react-router-dom';
+import one from '../assets/img/portfolio/9jastudio.jpg';
+import two from '../assets/img/portfolio/ices_website.jpg';
+import three from '../assets/img/portfolio/noisefiles.jpg';
+import four from '../assets/img/portfolio/riveting.jpg';
+import five from '../assets/img/portfolio/thiacplicity.jpg'
 
 export default function HeroThreeB() {
 
@@ -15,7 +16,7 @@ export default function HeroThreeB() {
         <div className="portfolio_image_area">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-5 col-md-5">
+                    <div className="col-xl-4 col-md-6 col-lg-4">
                         <div className="single_Portfolio">
                             <div className="portfolio_thumb">
                                 <img className='img-fluid' src={one} alt="img"/>
@@ -23,12 +24,12 @@ export default function HeroThreeB() {
                             <a href={one} className="popup popup-image"></a>
                             <div className="portfolio_hover">
                                 <div className="title">
-                                        <h3>Product Design</h3>
+                                        <h3>WordPress</h3>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-7 col-md-7">
+                    <div className="col-xl-4 col-md-6 col-lg-4">
                         <div className="single_Portfolio">
                             <div className="portfolio_thumb">
                                 <img src={two} alt="img"/>
@@ -36,7 +37,7 @@ export default function HeroThreeB() {
                             <a href={two} className="popup popup-image"></a>
                             <div className="portfolio_hover">
                                 <div className="title">
-                                        <h3>Product Design</h3>
+                                        <h3>Frontend development</h3>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +50,7 @@ export default function HeroThreeB() {
                             <a href={three} className="popup popup-image"></a>
                             <div className="portfolio_hover">
                                 <div className="title">
-                                        <h3>Product Design</h3>
+                                        <h3>WordPress</h3>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +63,7 @@ export default function HeroThreeB() {
                             <a href={four} className="popup popup-image"></a>
                             <div className="portfolio_hover">
                                 <div className="title">
-                                      <h3>Product Design</h3>
+                                      <h3>FrontEnd Development</h3>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +76,7 @@ export default function HeroThreeB() {
                             <a href={five} className="popup popup-image"></a>
                             <div className="portfolio_hover">
                                 <div className="title">
-                                        <h3>Product Design</h3>
+                                        <h3>WordPress</h3>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +85,7 @@ export default function HeroThreeB() {
                 <div className="row">
                     <div className="col-xl-12">
                         <div className="more_portfolio text-center">
-                            <a className="line_btn" href="#">More Folio</a>
+                            <Link to="/myworks" className="line_btn">More Folio</Link>
                         </div>
                     </div>
                 </div>

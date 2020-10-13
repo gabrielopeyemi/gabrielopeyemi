@@ -31,7 +31,7 @@ export default function App() {
           <Route exact path="/myworks">
             <Myworks/>
           </Route>
-          <Route exact path="/404">
+          <Route exact path="/*">
             <Notfound/>
           </Route>
         </Switch>

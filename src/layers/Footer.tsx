@@ -22,10 +22,12 @@ export default function Footer() {
                         <div className="col-xl-6 col-md-6">
                             <div className="socail_links">
                                 <ul>
+                                    <li><a href="tel:+2347031612450"><i className= "fas fa-phone"></i></a></li>
+                                    <li><a href="https://wa.link/rs7uva"><i className= "fab fa-whatsapp"></i></a></li>
                                     <li><a href="https://web.facebook.com/famosipe"> <i className="fab fa-facebook"></i> </a></li>
                                     <li><a href="https://twitter.com/GabrielOpeyemi_"> <i className="fab fa-twitter"></i> </a></li>
                                     <li><a href="https://github.com/gabrielopeyemi"> <i className="fab fa-github"></i> </a></li>
-                                    <li><a href="https://www.linkedin.com/in/opeyemi-gabriel-famosipe-9b7805168/"> <i className="fab fa-linkedin"></i> </a></li>
+                                    <li><a href="https://linkedin.com/in/gabrielopeyemi"> <i className="fab fa-linkedin"></i> </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -37,8 +39,8 @@ export default function Footer() {
                                 {/* <div className="more_portfolio text-center">
                                     <a className="line_btn" href="#">More Folio</a>
                               </div> */}
-                              <div className="text-center">
-                                    <a className="boxed-btn3" href="tel:+2378031612450">Hire me ?</a>
+                              <div className="text-center" style={{marginBottom: '40px', marginTop: '40px'}}>
+                                    <a className="boxed-btn3" href="tel:+2347031612450">Hire me ?</a>
                                 </div>
                             </div>
                       </div>
@@ -51,7 +53,7 @@ export default function Footer() {
                         <div className="col-xl-12">
                             <p className="copy_right text-center">
                                 {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-                                Copyright &copy; {date} All rights reserved 
+                                Copyright &copy; {date} All rights reserved <br/> made with <i className="fab fa-react"></i>
                                 {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
                             </p>
                         </div>

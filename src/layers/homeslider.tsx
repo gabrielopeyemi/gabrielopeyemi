@@ -12,19 +12,21 @@ export default function Homeslider() {
               </div>
               <div className="social_links">
                   <ul>
-                      <li><a href="#"> <i className="fa fa-facebook"></i> </a></li>
-                      <li><a href="#"> <i className="fa fa-twitter"></i> </a></li>
-                      <li><a href="#"> <i className="fa fa-instagram"></i> </a></li>
-                  </ul>
+                        <li><a href="https://wa.link/rs7uva"><i className= "fab fa-whatsapp"></i></a></li>
+                        <li><a href="https://web.facebook.com/famosipe"> <i className="fab fa-facebook"></i> </a></li>
+                        <li><a href="https://twitter.com/GabrielOpeyemi_"> <i className="fab fa-twitter"></i> </a></li>
+                        <li><a href="https://github.com/gabrielopeyemi"> <i className="fab fa-github"></i> </a></li>
+                        <li><a href="https://linkedin.com/in/gabrielopeyemi"> <i className="fab fa-linkedin"></i> </a></li>
+                    </ul>
               </div>
               <div className="container">
                   <div className="row align-items-center">
                       <div className="col-xl-12">
-                          <div className="slider_text text-center" style={{paddingTop: '300px', paddingLeft: '100px'}}>
+                          <div className="slider_text text-center" style={{paddingTop: '370px', paddingLeft: '150px'}}>
                               <h3>
                                   I'm Opeyemi Gabriel
                               </h3>
-                              <span>Frontend Developer</span>
+                              <span>Frontend Engineer</span>
                           </div>
                       </div>
                   </div>

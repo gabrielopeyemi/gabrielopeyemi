@@ -47,7 +47,8 @@ const INavbar = (): any => {
       <nav className={navbar ? 'navbar active' : 'navbar'}>
         <div className="navbar-container">
           <Link to='/' className='navbar-logo'>
-            Gabriel Opeyemi <i className="fab fa-typo3"></i>
+            Gabriel Opeyemi 
+            {/* <i className="fab fa-typo3"></i> */}
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'}></i>

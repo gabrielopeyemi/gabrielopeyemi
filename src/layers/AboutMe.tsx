@@ -1,6 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import About from '../assets/img/about/about.png';
-
 export default function AboutMe() {
   
   
@@ -8,7 +8,7 @@ export default function AboutMe() {
   return (
     <>
       {/* <!-- about_me  --> */}
-      <div className="about_me">
+      <div className="about_me" style={{marginBottom: '70px'}}>
           <div className="about_large_title d-none d-lg-block">
                 About
           </div>
@@ -21,7 +21,7 @@ export default function AboutMe() {
                           <p>I’m Opeyemi Gabriel-Famosipe. I’m a developer who does little designs. I’ve worked in-house and remotely on projects for different brands, agencies, and startups. I care deeply about creating world-class, useful and beautiful products that help people and make a difference. 
 </p>
                           <div className="download_cv">
-                              <a className="boxed-btn3" href="/about">Learn More</a>
+                                  <Link to='aboutme' className="boxed-btn3">Learn More</Link>
                           </div>
                       </div>
                   </div>
@@ -29,9 +29,6 @@ export default function AboutMe() {
                       <div className="about_img">
                           <div className="color_pattern d-none d-lg-block">
                               <img className='img-fluid' src={About} alt="grid"/>
-                          </div>
-                          <div className="my_Pic">
-                                <img src="img/about/about.png" alt="about"/>
                           </div>
                       </div>
                   </div>
