@@ -20,7 +20,7 @@ export default function Homeslider() {
               <div className="container">
                   <div className="row align-items-center">
                       <div className="col-xl-12">
-                          <div className="slider_text text-center">
+                          <div className="slider_text text-center" style={{paddingTop: '300px', paddingLeft: '100px'}}>
                               <h3>
                                   I'm Opeyemi Gabriel
                               </h3>

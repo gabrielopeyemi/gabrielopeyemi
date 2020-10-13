@@ -21,7 +21,7 @@ export default function AboutMe() {
                           <p>I’m Opeyemi Gabriel-Famosipe. I’m a developer who does little designs. I’ve worked in-house and remotely on projects for different brands, agencies, and startups. I care deeply about creating world-class, useful and beautiful products that help people and make a difference. 
 </p>
                           <div className="download_cv">
-                              <a className="boxed-btn3" href="#">Learn More</a>
+                              <a className="boxed-btn3" href="/about">Learn More</a>
                           </div>
                       </div>
                   </div>

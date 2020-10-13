@@ -13,23 +13,35 @@ export default function Footer() {
                         <div className="col-xl-6 col-md-6">
                             <div className="menu_links">
                                 <ul>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Portfolio</a></li>
+                                    <li><a href="/aboutme">About</a></li>
+                                    <li><a href="/resume">Resume</a></li>
+                                    <li><a href="/myworks">Portfolio</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div className="col-xl-6 col-md-6">
                             <div className="socail_links">
                                 <ul>
-                                    <li><a href="#"> <i className="fa fa-facebook"></i> </a></li>
-                                    <li><a href="#"> <i className="fab fa-twitter"></i> </a></li>
-                                    <li><a href="#"> <i className="fa fa-instagram"></i> </a></li>
-                                    <li><a href="#"> <i className="fa fa-google-plus"></i> </a></li>
+                                    <li><a href="https://web.facebook.com/famosipe"> <i className="fab fa-facebook"></i> </a></li>
+                                    <li><a href="https://twitter.com/GabrielOpeyemi_"> <i className="fab fa-twitter"></i> </a></li>
+                                    <li><a href="https://github.com/gabrielopeyemi"> <i className="fab fa-github"></i> </a></li>
+                                    <li><a href="https://www.linkedin.com/in/opeyemi-gabriel-famosipe-9b7805168/"> <i className="fab fa-linkedin"></i> </a></li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                      </div>
+                      <div className="row align-items-center">
+                        
+                          
+                            <div className="col-xl-12">
+                                {/* <div className="more_portfolio text-center">
+                                    <a className="line_btn" href="#">More Folio</a>
+                              </div> */}
+                              <div className="text-center">
+                                    <a className="boxed-btn3" href="tel:+2378031612450">Hire me ?</a>
+                                </div>
+                            </div>
+                      </div>
                 </div>
             </div>
             <div className="copy-right_text">
