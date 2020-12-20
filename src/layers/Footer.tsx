@@ -13,9 +13,9 @@ export default function Footer() {
                         <div className="col-xl-6 col-md-6">
                             <div className="menu_links">
                                 <ul>
-                                    <li><a href="/aboutme">About</a></li>
-                                    <li><a href="/resume">Resume</a></li>
-                                    <li><a href="/myworks">Portfolio</a></li>
+                                    <li><Link to="/aboutme">About</Link></li>
+                                    <li><Link to="/resume">Resume</Link></li>
+                                    <li><Link to="/myworks">Portfolio</Link></li>
                                 </ul>
                             </div>
                         </div>

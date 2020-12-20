@@ -27,7 +27,7 @@ export default function Herotwo() {
                               <img className="img-fluid" style={{width: '50px'}} src={one} alt="icon"/>
                           </div>
                           <h3>FrontEnd Development</h3>
-                          <p>HTML, CSS, Bootstraps, Materialize CSS, JS, VanillaJs, Reactjs, and VueJs</p>
+                          <p>HTML, CSS, Bootstraps, Materialize CSS, JS, VanillaJS, ReactJS, GatsbyJS and VueJS</p>
                       </div>
                   </div>
                   <div className="col-xl-4 col-md-4">

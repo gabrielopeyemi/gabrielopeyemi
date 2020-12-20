@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import one from '../assets/img/portfolio/9jastudio.jpg';
-import two from '../assets/img/portfolio/ices_website.jpg';
+import two from '../assets/img/portfolio/stemzoneng.png';
 import three from '../assets/img/portfolio/noisefiles.jpg';
 import four from '../assets/img/portfolio/riveting.jpg';
 import five from '../assets/img/portfolio/thiacplicity.jpg'
