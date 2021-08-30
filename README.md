@@ -8,15 +8,12 @@ Javascript and Typescript.
 - React
 - React-native
 - Vue
+- PostgresSQL
+- Elixir Phoenix
+- GraphQL
 - Gatsby
 - Redux
 - Nestjs
-- Express js
-- Bootstrap
-- jQuery
-- Ajax
-- WordPress
-- Cordova
 - Mongo DB etc
 
 ### How to reach me
