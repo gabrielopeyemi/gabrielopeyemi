@@ -5,6 +5,14 @@ Javascript and Typescript.
 
 ## What i have worked with:
 
+```
+const technologies = {
+  "general": ["typeScript", "javaScript", "eslint", "git", "npm", "yarn"],
+  "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css"],
+  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL"],
+}
+```
+
 - React
 - React-native
 - Vue
