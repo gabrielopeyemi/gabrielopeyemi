@@ -8,24 +8,19 @@ Javascript and Typescript.
 ```
 const technologies = {
   "general": ["typeScript", "javaScript", "eslint", "git", "npm", "yarn"],
-  "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css"],
-  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL"],
+  "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css", "Vue"],
+  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL" , "Elixir Phoenix"],
 }
 ```
 
-- React
-- React-native
-- Vue
-- PostgresSQL
-- Elixir Phoenix
-- GraphQL
-- Gatsby
-- Redux
-- Nestjs
-- Mongo DB etc
-
-### How to reach me
-- [LinkedIn](https://www.linkedin.com/in/gabrielopeyemi/)
-- [Website](https://gabrielopeyemi.com/)
-- [Twitter](https://twitter.com/gabrielopeyemi_/)
-- [Facebook](https://facebook.com/famosipe/)
+```
+const howToReachMe = {
+  "email": "famosipe2010@gmail.com",
+  "twitter": "gabrielopeyemi_",
+  "linkedIn": "https://www.linkedin.com/in/gabrielopeyemi",
+  "facebook": "https://facebook.com/famosipe",
+  "github": "https://github.com/gabrielopeyemi",
+  "website": "https://gabrielopeyemi.com",
+  "phoneNumber": "+2347031612450",
+}
+```
