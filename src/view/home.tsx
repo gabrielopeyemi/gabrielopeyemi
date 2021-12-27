@@ -12,11 +12,6 @@ export default function Home() {
     <>
       <INavbar/>
       <Homeslider />
-      <Herotwo />
-      <HeroThree />
-      <HeroThreeB/>
-      <AboutMe/>
-      <Footer/>
     </>
   )
 }

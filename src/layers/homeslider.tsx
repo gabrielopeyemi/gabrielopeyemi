@@ -26,7 +26,7 @@ export default function Homeslider() {
                               <h3>
                                   I'm Opeyemi Gabriel
                               </h3>
-                              <span>Frontend Engineer</span>
+                              <span>Software Engineer</span>
                           </div>
                       </div>
                   </div>

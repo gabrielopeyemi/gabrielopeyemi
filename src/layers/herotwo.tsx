@@ -14,8 +14,7 @@ export default function Herotwo() {
                   <div className="col-xl-12">
                       <div className="section_title text-center mb-65">
                           <span>Service Provided</span>
-                          <h3>Build brands campaigns  <br/>
-                                & digital projects</h3>
+                          <h3>My Skills</h3>
                       </div>
                   </div>
               </div>
@@ -26,8 +25,8 @@ export default function Herotwo() {
                           <div className="icon">
                               <img className="img-fluid" style={{width: '50px'}} src={one} alt="icon"/>
                           </div>
-                          <h3>FrontEnd Development</h3>
-                          <p>HTML, CSS, Bootstraps, Materialize CSS, JS, VanillaJS, ReactJS, GatsbyJS and VueJS</p>
+                          <h3>FrontEnd Engineering</h3>
+                          <p>ReactJS, NextJS, GatsbyJS and VueJS</p>
                       </div>
                   </div>
                   <div className="col-xl-4 col-md-4">
@@ -35,8 +34,8 @@ export default function Herotwo() {
                           <div className="icon">
                               <img className="img-fluid" style={{width: '50px'}}  src={two} alt="icon"/>
                           </div>
-                          <h3>WordPress Developement</h3>
-                          <p>WordPress, Headless WordPress, Elementor, Woo commerce, Optimization</p>
+                          <h3>Backend Engineering</h3>
+                          <p>NestJS, Elixir, NodeJS, ExpressJS</p>
                       </div>
                   </div>
                   <div className="col-xl-4 col-md-4">
@@ -44,8 +43,8 @@ export default function Herotwo() {
                           <div className="icon">
                               <img className="img-fluid" style={{width: '50px'}} src={three} alt="icon"/>
                           </div>
-                          <h3>Mobile Development</h3>
-                          <p>Cordovajs, React-Native.</p>
+                          <h3>Mobile Engineering</h3>
+                          <p>CordovaJS, React-Native</p>
                       </div>
                   </div>
               </div>
