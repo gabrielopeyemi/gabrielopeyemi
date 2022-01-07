@@ -38,7 +38,7 @@ export default function About() {
                       technology from The Federal University of Technology, Akure. 
                     </p>
                     <p>
-                      As a transportation management I can supervise many aspects of transportation 
+                      As a transport manager I can supervise many aspects of transportation 
                       systems, including planning, logistics, maintenance and repair. I focus on 
                       getting materials, people and goods from one place to another while considering 
                       safety, efficiency and cost. I can also expect to manage financial aspects of 

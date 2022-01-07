@@ -11,9 +11,6 @@ export default function Myworks() {
     <>
       <INavbar />
         {/* <Comingsoon/> */}
-        <Herotwo />
-        <HeroThree />
-        <HeroThreeB/>
       <Footer/>
     </>
   )

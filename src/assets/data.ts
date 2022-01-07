@@ -12,15 +12,15 @@ export const linkDirect = [
     direction: '/aboutme',
   },
   {
-    name: 'My works',
+    name: 'myWorks',
     cname: 'nav-links',
     cName: 'nav-item',
     direction: '/myworks',
   },
-  {
-    name: 'Resume',
-    cname: 'nav-links',
-    cName: 'nav-item',
-    direction: '/resume',
-  }
+  // {
+  //   name: 'Resume',
+  //   cname: 'nav-links',
+  //   cName: 'nav-item',
+  //   direction: '/resume',
+  // }
 ]

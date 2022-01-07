@@ -61,11 +61,17 @@ const INavbar = (): any => {
                   </Link>
                 </li>
             ))}
+            <li className='nav-item'>
+                  <a href='https://docs.google.com/document/d/1iwQNUhYW_deqvpW14paXRiIE7f5dSz99o0hWbXWkXf0/edit?usp=sharing' className='nav-links'>
+                    Resume
+                  </a>
+                </li>
           </ul>
         </div>
       </nav>
     </>
   );
   }
+  // https://docs.google.com/document/d/12ElAJAIbm6UtlCJAg9GjQL9lpvIoU5Pe/edit?usp=sharing&ouid=115934831628310065718&rtpof=true&sd=true
 
   export default INavbar
