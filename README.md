@@ -8,8 +8,8 @@ Javascript and Typescript.
 ```
 const technologies = {
   "general": ["typeScript", "javaScript", "eslint", "git", "npm", "yarn"],
-  "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css", "Vue"],
-  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL" , "Elixir Phoenix"],
+  "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css", "Vue", "Rust"],
+  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL" , "Rust"],
 }
 ```
 
