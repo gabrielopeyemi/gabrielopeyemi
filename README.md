@@ -9,7 +9,7 @@ Javascript and Typescript.
 const technologies = {
   "general": ["typeScript", "javaScript", "eslint", "git", "npm", "yarn"],
   "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css", "Vue", "Rust"],
-  "backEnd": ["nestJs", "express", "nodeJs", "docker", "postgreSQL" , "Rust"],
+  "backEnd": ["nestJs", "express", "nodeJs", "MongoDB", "postgreSQL" , "Rust"],
 }
 ```
 
