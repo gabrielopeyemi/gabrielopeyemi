@@ -1,5 +1,5 @@
 # Hello there!
-I’m Opeyemi Gabriel Famosipe, a seasoned software engineer and designer with a track record of delivering world-class digital solutions. I’ve collaborated with agencies, and startups both in-house and remotely building innovative, scalable, and beautifully crafted products that drive impact and push the boundaries of technology 
+I’m Opeyemi Gabriel Famosipe, a seasoned software engineer and designer with a track record of delivering world-class digital solutions. I’ve collaborated with agencies and startups both in-house and remotely, building innovative, scalable, and beautifully crafted products that drive impact and push the boundaries of technology 
 ## Ask me about: 
 JavaScript and Typescript.
 
@@ -9,7 +9,7 @@ JavaScript and Typescript.
 const technologies = {
   "general": ["typeScript", "javaScript", "eslint", "git", "npm", "yarn"],
   "frontEnd": ["react", "reactNative", "redux", "nextJs", "html", "css", "Vue", "Rust"],
-  "backEnd": ["nestJs", "express", "nodeJs", "MongoDB", "postgreSQL" , "Rust"],
+  "backEnd": ["nestJs", "express", "nodeJs", "MongoDB", "postgreSQL", "Rust"],
 }
 ```
 
