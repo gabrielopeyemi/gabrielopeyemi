@@ -1,9 +1,9 @@
 # Hello there!
-I’m Opeyemi Gabriel-Famosipe. I’m a Software engineer who does designs. I’ve worked in-house and remotely on projects for different brands, agencies, and startups. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. 
+I’m Opeyemi Gabriel Famosipe, a seasoned software engineer and designer with a track record of delivering world-class digital solutions. I’ve collaborated with agencies, and startups both in-house and remotely building innovative, scalable, and beautifully crafted products that drive impact and push the boundaries of technology 
 ## Ask me about: 
-Javascript and Typescript.
+JavaScript and Typescript.
 
-## What i have worked with:
+## What I have worked with:
 
 ```
 const technologies = {
